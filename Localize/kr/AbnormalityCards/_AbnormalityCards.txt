@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sephirah SephirahType="Yesod">
+    <AbnormalityCard ID="SingingMachine_Atk">
+      <Abnormality>노래하는 기계</Abnormality>
+      <CardName>음악 중독</CardName>
+      <AbilityDesc>[모든 아군]
+모든 아군의 공격주사위 위력이 3-4 증가한다.
+공격할 경우 자신의 주사위 값의 절반만큼 추가로 피해를 받는다.
+      </AbilityDesc>
+      <FlaborText>원래 예술이란 절망과 고통으로부터 나오는 악마의 선물이다. 몸이 가루처럼 부서질 때까지 연주를 멈추지 말기를.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">다른 음악따위 이제 그저 소음일 뿐이야…</Dialogue>
+        <Dialogue ID="2">나를 움직이게 해… 어서 노래로 내 앞을 밝혀!</Dialogue>
+        <Dialogue ID="3">하하하… 하… 어떻게 해야하지? 내가 할 수 있는건? 하하…</Dialogue>
+        <Dialogue ID="4">이 선율이 영원하다면 불멸의 행복은 내 것일텐데…</Dialogue>
+        <Dialogue ID="5">그래! 이거야… 이 강렬한 곡조를 봐!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+</AbnormalityCardsRoot>

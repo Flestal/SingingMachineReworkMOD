@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmotionCardXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EmotionCard ID="9">
+    <Name>SingingMachine_Atk</Name>
+    <State>Negative</State>
+    <Sephirah>Yesod</Sephirah>
+    <Level>4</Level>
+
+    <TargetType>All</TargetType>
+
+    <Script>singingMachine3Rework</Script>
+  </EmotionCard>
+</EmotionCardXmlRoot>
